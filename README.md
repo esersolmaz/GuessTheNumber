@@ -2,10 +2,6 @@
 
 GuessTheNumber is a simple and fun number guessing game developed using Swift and SwiftUI. The app selects a random number between 1 and 1000, and the player's goal is to find this number with as few guesses as possible.
 
-<p align="center">
-  <img src="/api/placeholder/300/600" alt="GuessTheNumber App Screenshot" />
-</p>
-
 ## Features
 
 - Random number generation between 1 and 1000
