@@ -21,7 +21,7 @@ GuessTheNumber is a simple and fun number guessing game developed using Swift an
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/GuessTheNumber.git
+   git clone https://github.com/esersolmaz/GuessTheNumber.git
    ```
 
 2. Open the project in Xcode:
