@@ -88,7 +88,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## Contact
 
-For questions or feedback, please reach out via [GitHub Issues](https://github.com/yourusername/GuessTheNumber/issues).
+For questions or feedback, please reach out via [GitHub Issues](https://github.com/esersolmaz/GuessTheNumber/issues).
 
 ---
 
